@@ -1,0 +1,152 @@
+category_name      : Poetry
+book_name          : A Light in the Attic
+price              : 51.77
+rate               : 3
+stock_staus        : In stock
+available_quantity : 22
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : The Black Maria
+price              : 52.15
+rate               : 1
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Shakespeare's Sonnets
+price              : 20.66
+rate               : 4
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Olio
+price              : 23.88
+rate               : 1
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : You can't bury them all: Poems
+price              : 33.63
+rate               : 2
+stock_staus        : In stock
+available_quantity : 17
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Slow States of Collapse: Poems
+price              : 57.31
+rate               : 3
+stock_staus        : In stock
+available_quantity : 17
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Untitled Collection: Sabbath Poems 2014
+price              : 14.27
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Poems That Make Grown Women Cry
+price              : 14.19
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Night Sky with Exit Wounds
+price              : 41.05
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : salt.
+price              : 46.78
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Quarter Life Poetry: Poems for the Young, Broke and Hangry
+price              : 50.89
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Out of Print: City Lights Spotlight No. 14
+price              : 53.64
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Les Fleurs du Mal
+price              : 29.04
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Howl and Other Poems
+price              : 40.45
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Leave This Song Behind: Teen Poetry at Its Best
+price              : 51.17
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+price              : 15.42
+rate               : 5
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : The Crossover
+price              : 38.77
+rate               : 4
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Booked
+price              : 17.49
+rate               : 5
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Poetry
+book_name          : Twenty Love Poems and a Song of Despair
+price              : 30.95
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

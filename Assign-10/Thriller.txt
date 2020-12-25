@@ -1,0 +1,88 @@
+category_name      : Thriller
+book_name          : In Her Wake
+price              : 12.84
+rate               : 1
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : The Elephant Tree
+price              : 23.82
+rate               : 5
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : Behind Closed Doors
+price              : 52.22
+rate               : 4
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : You (You #1)
+price              : 43.61
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : The Guilty (Will Robie #4)
+price              : 13.82
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : The 14th Colony (Cotton Malone #11)
+price              : 39.24
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : Give It Back
+price              : 18.32
+rate               : 2
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : Killing Floor (Jack Reacher #1)
+price              : 31.49
+rate               : 4
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)
+price              : 59.71
+rate               : 3
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : Far From True (Promise Falls Trilogy #2)
+price              : 34.93
+rate               : 2
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Thriller
+book_name          : The Travelers
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

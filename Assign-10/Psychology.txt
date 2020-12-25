@@ -1,0 +1,56 @@
+category_name      : Psychology
+book_name          : The Lucifer Effect: Understanding How Good People Turn Evil
+price              : 10.40
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : The Golden Condom: And Other Essays on Love Lost and Found
+price              : 39.43
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle
+price              : 56.27
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : An Unquiet Mind: A Memoir of Moods and Madness
+price              : 21.30
+rate               : 3
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : Thinking, Fast and Slow
+price              : 21.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : Civilization and Its Discontents
+price              : 59.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Psychology
+book_name          : 8 Keys to Mental Health Through Exercise
+price              : 31.04
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

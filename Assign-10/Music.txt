@@ -1,0 +1,104 @@
+category_name      : Music
+book_name          : Rip it Up and Start Again
+price              : 35.02
+rate               : 5
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+price              : 57.25
+rate               : 3
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : How Music Works
+price              : 37.32
+rate               : 2
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Love Is a Mix Tape (Music #1)
+price              : 18.03
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Please Kill Me: The Uncensored Oral History of Punk
+price              : 31.19
+rate               : 4
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Kill 'Em and Leave: Searching for James Brown and the American Soul
+price              : 45.05
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Chronicles, Vol. 1
+price              : 52.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : This Is Your Brain on Music: The Science of a Human Obsession
+price              : 38.40
+rate               : 1
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors
+price              : 12.36
+rate               : 3
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : No One Here Gets Out Alive
+price              : 20.02
+rate               : 5
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Life
+price              : 31.58
+rate               : 5
+stock_staus        : In stock
+available_quantity : 2
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Old Records Never Die: One Man's Quest for His Vinyl and His Past
+price              : 55.66
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Music
+book_name          : Forever Rockers (The Rocker #12)
+price              : 28.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

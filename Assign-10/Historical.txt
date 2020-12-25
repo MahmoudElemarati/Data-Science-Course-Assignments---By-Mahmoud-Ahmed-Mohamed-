@@ -1,0 +1,16 @@
+category_name      : Historical
+book_name          : All the Light We Cannot See
+price              : 29.87
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical
+book_name          : The Girl You Left Behind (The Girl You Left Behind #1)
+price              : 15.79
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------

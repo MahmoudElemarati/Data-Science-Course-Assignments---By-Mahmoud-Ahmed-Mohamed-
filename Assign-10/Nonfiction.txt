@@ -1,0 +1,960 @@
+category_name      : Nonfiction
+book_name          : Worlds Elsewhere: Journeys Around Shakespeareâs Globe
+price              : 40.30
+rate               : 5
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+price              : 31.05
+rate               : 3
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Reasons to Stay Alive
+price              : 26.41
+rate               : 2
+stock_staus        : In stock
+available_quantity : 17
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+price              : 23.11
+rate               : 5
+stock_staus        : In stock
+available_quantity : 17
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+price              : 44.18
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+price              : 31.12
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+price              : 16.77
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Gutsy Girl: Escapades for Your Life of Epic Adventure
+price              : 37.13
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Electric Pencil: Drawings from Inside State Hospital No. 3
+price              : 56.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+price              : 41.83
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Reskilling America: Learning to Labor in the Twenty-First Century
+price              : 19.83
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : In the Country We Love: My Family Divided
+price              : 22.00
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+price              : 54.35
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Algorithms to Live By: The Computer Science of Human Decisions
+price              : 30.81
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Power of Now: A Guide to Spiritual Enlightenment
+price              : 43.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Omnivore's Dilemma: A Natural History of Four Meals
+price              : 38.21
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Genius of Birds
+price              : 17.24
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Artist's Way: A Spiritual Path to Higher Creativity
+price              : 38.49
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : So You've Been Publicly Shamed
+price              : 12.23
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+price              : 19.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Big Magic: Creative Living Beyond Fear
+price              : 30.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Becoming Wise: An Inquiry into the Mystery and Art of Living
+price              : 27.43
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Agnostic: A Spirited Manifesto
+price              : 12.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+price              : 38.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : What's It Like in Space?: Stories from Astronauts Who've Been There
+price              : 19.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Year of Magical Thinking
+price              : 43.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Literature Book (Big Ideas Simply Explained)
+price              : 17.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Swell: A Year of Waves
+price              : 45.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+price              : 21.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Looking for Lovely: Collecting the Moments that Matter
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Let It Out: A Journey Through Journaling
+price              : 26.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Hamilton: The Revolution
+price              : 58.79
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+price              : 15.06
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+price              : 51.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Buying In: The Secret Dialogue Between What We Buy and Who We Are
+price              : 37.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Brain on Fire: My Month of Madness
+price              : 49.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Abstract City
+price              : 56.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : 13 Hours: The Inside Account of What Really Happened In Benghazi
+price              : 27.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+price              : 19.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Big Magic: Creative Living Beyond Fear
+price              : 30.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Becoming Wise: An Inquiry into the Mystery and Art of Living
+price              : 27.43
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Agnostic: A Spirited Manifesto
+price              : 12.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+price              : 38.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : What's It Like in Space?: Stories from Astronauts Who've Been There
+price              : 19.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Year of Magical Thinking
+price              : 43.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Literature Book (Big Ideas Simply Explained)
+price              : 17.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Swell: A Year of Waves
+price              : 45.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+price              : 21.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Looking for Lovely: Collecting the Moments that Matter
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Let It Out: A Journey Through Journaling
+price              : 26.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Hamilton: The Revolution
+price              : 58.79
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+price              : 15.06
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+price              : 51.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Buying In: The Secret Dialogue Between What We Buy and Who We Are
+price              : 37.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Brain on Fire: My Month of Madness
+price              : 49.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Abstract City
+price              : 56.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : 13 Hours: The Inside Account of What Really Happened In Benghazi
+price              : 27.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+price              : 19.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Big Magic: Creative Living Beyond Fear
+price              : 30.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Becoming Wise: An Inquiry into the Mystery and Art of Living
+price              : 27.43
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Agnostic: A Spirited Manifesto
+price              : 12.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+price              : 38.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : What's It Like in Space?: Stories from Astronauts Who've Been There
+price              : 19.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Year of Magical Thinking
+price              : 43.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Literature Book (Big Ideas Simply Explained)
+price              : 17.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Swell: A Year of Waves
+price              : 45.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+price              : 21.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Looking for Lovely: Collecting the Moments that Matter
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Let It Out: A Journey Through Journaling
+price              : 26.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Hamilton: The Revolution
+price              : 58.79
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+price              : 15.06
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+price              : 51.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Buying In: The Secret Dialogue Between What We Buy and Who We Are
+price              : 37.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Brain on Fire: My Month of Madness
+price              : 49.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Abstract City
+price              : 56.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : 13 Hours: The Inside Account of What Really Happened In Benghazi
+price              : 27.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+price              : 19.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Big Magic: Creative Living Beyond Fear
+price              : 30.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Becoming Wise: An Inquiry into the Mystery and Art of Living
+price              : 27.43
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Agnostic: A Spirited Manifesto
+price              : 12.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+price              : 38.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : What's It Like in Space?: Stories from Astronauts Who've Been There
+price              : 19.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Year of Magical Thinking
+price              : 43.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Literature Book (Big Ideas Simply Explained)
+price              : 17.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Swell: A Year of Waves
+price              : 45.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+price              : 21.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Looking for Lovely: Collecting the Moments that Matter
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Let It Out: A Journey Through Journaling
+price              : 26.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Hamilton: The Revolution
+price              : 58.79
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+price              : 15.06
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+price              : 51.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Buying In: The Secret Dialogue Between What We Buy and Who We Are
+price              : 37.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Brain on Fire: My Month of Madness
+price              : 49.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Abstract City
+price              : 56.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : 13 Hours: The Inside Account of What Really Happened In Benghazi
+price              : 27.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+price              : 19.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Big Magic: Creative Living Beyond Fear
+price              : 30.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Becoming Wise: An Inquiry into the Mystery and Art of Living
+price              : 27.43
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Agnostic: A Spirited Manifesto
+price              : 12.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+price              : 38.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : What's It Like in Space?: Stories from Astronauts Who've Been There
+price              : 19.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Year of Magical Thinking
+price              : 43.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Literature Book (Big Ideas Simply Explained)
+price              : 17.43
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+price              : 15.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Swell: A Year of Waves
+price              : 45.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+price              : 21.95
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Looking for Lovely: Collecting the Moments that Matter
+price              : 29.14
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Let It Out: A Journey Through Journaling
+price              : 26.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Hamilton: The Revolution
+price              : 58.79
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+price              : 15.06
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+price              : 51.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Buying In: The Secret Dialogue Between What We Buy and Who We Are
+price              : 37.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Brain on Fire: My Month of Madness
+price              : 49.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : Abstract City
+price              : 56.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Nonfiction
+book_name          : 13 Hours: The Inside Account of What Really Happened In Benghazi
+price              : 27.06
+rate               : 1
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------

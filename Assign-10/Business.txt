@@ -1,0 +1,96 @@
+category_name      : Business
+book_name          : The Dirty Little Secrets of Getting Your Dream Job
+price              : 33.34
+rate               : 4
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : The Third Wave: An Entrepreneurâs Vision of the Future
+price              : 12.61
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job
+price              : 27.55
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Shoe Dog: A Memoir by the Creator of NIKE
+price              : 23.99
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Made to Stick: Why Some Ideas Survive and Others Die
+price              : 38.85
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+price              : 43.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : The Art of Startup Fundraising
+price              : 21.00
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Born for This: How to Find the Work You Were Meant to Do
+price              : 21.59
+rate               : 5
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+price              : 36.91
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Rich Dad, Poor Dad
+price              : 51.74
+rate               : 1
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+price              : 33.92
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Business
+book_name          : Rework
+price              : 44.88
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

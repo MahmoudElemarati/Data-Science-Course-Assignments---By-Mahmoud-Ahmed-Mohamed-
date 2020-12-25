@@ -1,0 +1,8 @@
+category_name      : Paranormal
+book_name          : Vampire Knight, Vol. 1 (Vampire Knight #1)
+price              : 15.40
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
