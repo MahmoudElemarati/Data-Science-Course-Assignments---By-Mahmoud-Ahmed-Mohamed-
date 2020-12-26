@@ -1,0 +1,8 @@
+category_name      : Novels
+book_name          : Suzie Snowflake: One beautiful flake (a self-esteem story)
+price              : 54.81
+rate               : 5
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------

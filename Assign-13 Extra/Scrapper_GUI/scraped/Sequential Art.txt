@@ -1,0 +1,640 @@
+category_name      : Sequential Art
+book_name          : Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+price              : 52.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+price              : 16.28
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : This One Summer
+price              : 19.49
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : The Nameless City (The Nameless City #1)
+price              : 38.16
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Saga, Volume 5 (Saga (Collected Editions) #5)
+price              : 51.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)
+price              : 50.40
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)
+price              : 13.61
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Pop Gun War, Volume 1: Gift
+price              : 18.97
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Patience
+price              : 10.16
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)
+price              : 15.44
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : orange: The Complete Collection 1 (orange: The Complete Collection #1)
+price              : 48.41
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+price              : 46.91
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)
+price              : 45.61
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)
+price              : 19.92
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)
+price              : 29.17
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : I am a Hero Omnibus Volume 1
+price              : 54.63
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Giant Days, Vol. 2 (Giant Days #5-8)
+price              : 22.11
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Danganronpa Volume 1
+price              : 51.99
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Codename Baboushka, Volume 1: The Conclave of Death
+price              : 36.72
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Camp Midnight
+price              : 17.08
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))
+price              : 37.92
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : The Shadow Hero (The Shadow Hero)
+price              : 33.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fables, Vol. 1: Legends in Exile (Fables #1)
+price              : 41.62
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Long Halloween (Batman)
+price              : 36.50
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Dark Knight Returns (Batman)
+price              : 15.38
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)
+price              : 37.34
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+price              : 53.90
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Through the Woods
+price              : 25.38
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
+price              : 11.89
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)
+price              : 35.43
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Robin War
+price              : 47.82
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)
+price              : 25.48
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)
+price              : 38.39
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lowriders to the Center of the Earth (Lowriders in Space #2)
+price              : 51.51
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : El Deafo
+price              : 57.62
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: Europa
+price              : 32.01
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Art Ops Vol. 1
+price              : 48.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Adulthood Is a Myth: A "Sarah's Scribbles" Collection
+price              : 10.90
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fruits Basket, Vol. 9 (Fruits Basket #9)
+price              : 33.95
+rate               : 4
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Roller Girl
+price              : 14.10
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))
+price              : 37.92
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : The Shadow Hero (The Shadow Hero)
+price              : 33.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fables, Vol. 1: Legends in Exile (Fables #1)
+price              : 41.62
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Long Halloween (Batman)
+price              : 36.50
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Dark Knight Returns (Batman)
+price              : 15.38
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)
+price              : 37.34
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+price              : 53.90
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Through the Woods
+price              : 25.38
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
+price              : 11.89
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)
+price              : 35.43
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Robin War
+price              : 47.82
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)
+price              : 25.48
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)
+price              : 38.39
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lowriders to the Center of the Earth (Lowriders in Space #2)
+price              : 51.51
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : El Deafo
+price              : 57.62
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: Europa
+price              : 32.01
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Art Ops Vol. 1
+price              : 48.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Adulthood Is a Myth: A "Sarah's Scribbles" Collection
+price              : 10.90
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fruits Basket, Vol. 9 (Fruits Basket #9)
+price              : 33.95
+rate               : 4
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Roller Girl
+price              : 14.10
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))
+price              : 37.92
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : The Shadow Hero (The Shadow Hero)
+price              : 33.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fables, Vol. 1: Legends in Exile (Fables #1)
+price              : 41.62
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Long Halloween (Batman)
+price              : 36.50
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: The Dark Knight Returns (Batman)
+price              : 15.38
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)
+price              : 37.34
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+price              : 53.90
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Through the Woods
+price              : 25.38
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
+price              : 11.89
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)
+price              : 35.43
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Robin War
+price              : 47.82
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)
+price              : 25.48
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)
+price              : 38.39
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Lowriders to the Center of the Earth (Lowriders in Space #2)
+price              : 51.51
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : El Deafo
+price              : 57.62
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Batman: Europa
+price              : 32.01
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Art Ops Vol. 1
+price              : 48.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Adulthood Is a Myth: A "Sarah's Scribbles" Collection
+price              : 10.90
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Fruits Basket, Vol. 9 (Fruits Basket #9)
+price              : 33.95
+rate               : 4
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Sequential Art
+book_name          : Roller Girl
+price              : 14.10
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------

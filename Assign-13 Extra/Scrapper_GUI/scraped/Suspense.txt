@@ -1,0 +1,8 @@
+category_name      : Suspense
+book_name          : Silence in the Dark (Logan Point #4)
+price              : 58.33
+rate               : 3
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------

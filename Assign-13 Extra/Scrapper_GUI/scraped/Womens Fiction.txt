@@ -1,0 +1,136 @@
+category_name      : Womens Fiction
+book_name          : I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+price              : 57.36
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Will You Won't You Want Me?
+price              : 13.86
+rate               : 3
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Keep Me Posted
+price              : 20.46
+rate               : 4
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Grey (Fifty Shades #4)
+price              : 48.49
+rate               : 4
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Meternity
+price              : 43.58
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Some Women
+price              : 13.73
+rate               : 5
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Shopaholic Ties the Knot (Shopaholic #3)
+price              : 48.39
+rate               : 5
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Can You Keep a Secret?
+price              : 21.94
+rate               : 1
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Twenties Girl
+price              : 42.80
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : The Undomestic Goddess
+price              : 45.75
+rate               : 4
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : The Nanny Diaries (Nanny #1)
+price              : 52.53
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : The Devil Wears Prada (The Devil Wears Prada #1)
+price              : 44.29
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Something Borrowed (Darcy & Rachel #1)
+price              : 48.96
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Something Blue (Darcy & Rachel #2)
+price              : 54.62
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : I've Got Your Number
+price              : 19.69
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : The Edge of Reason (Bridget Jones #2)
+price              : 19.18
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Womens Fiction
+book_name          : Bridget Jones's Diary (Bridget Jones #1)
+price              : 29.82
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

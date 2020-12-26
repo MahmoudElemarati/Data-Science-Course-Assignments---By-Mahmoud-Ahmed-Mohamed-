@@ -1,0 +1,136 @@
+category_name      : Horror
+book_name          : Security
+price              : 39.25
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Follow You Home
+price              : 21.36
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : The Loney
+price              : 23.40
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Pet Sematary
+price              : 10.56
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Doctor Sleep (The Shining #2)
+price              : 40.12
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Psycho: Sanitarium (Psycho #1.5)
+price              : 36.97
+rate               : 5
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Can You Keep a Secret? (Fear Street Relaunch #4)
+price              : 48.64
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Red Dragon (Hannibal Lecter #1)
+price              : 23.37
+rate               : 3
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Dracula the Un-Dead
+price              : 35.63
+rate               : 5
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Night Shift (Night Shift #1-20)
+price              : 12.75
+rate               : 4
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Needful Things
+price              : 47.51
+rate               : 4
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : Misery
+price              : 34.79
+rate               : 2
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : It
+price              : 25.01
+rate               : 3
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : 'Salem's Lot
+price              : 49.56
+rate               : 4
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : The Stand
+price              : 57.86
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : The Girl with All the Gifts
+price              : 49.47
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Horror
+book_name          : House of Leaves
+price              : 54.89
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

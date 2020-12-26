@@ -1,0 +1,72 @@
+category_name      : Autobiography
+book_name          : The Argonauts
+price              : 10.93
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : M Train
+price              : 27.18
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Lab Girl
+price              : 40.85
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Approval Junkie: Adventures in Caring Too Much
+price              : 58.81
+rate               : 5
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Running with Scissors
+price              : 12.91
+rate               : 4
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Me Talk Pretty One Day
+price              : 57.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Lust & Wonder
+price              : 11.87
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : Life Without a Recipe
+price              : 59.04
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Autobiography
+book_name          : A Heartbreaking Work of Staggering Genius
+price              : 54.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

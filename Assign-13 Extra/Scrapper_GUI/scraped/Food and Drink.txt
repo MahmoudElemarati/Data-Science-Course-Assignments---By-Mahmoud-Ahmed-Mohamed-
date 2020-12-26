@@ -1,0 +1,240 @@
+category_name      : Food and Drink
+book_name          : Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+price              : 30.52
+rate               : 3
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+price              : 56.41
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : My Paris Kitchen: Recipes and Stories
+price              : 33.37
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed
+price              : 14.02
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Layered: Baking, Building, and Styling Spectacular Cakes
+price              : 40.11
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
+price              : 37.34
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking
+price              : 37.60
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
+price              : 41.25
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals
+price              : 42.16
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth
+price              : 28.77
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+price              : 19.55
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Barefoot Contessa Back to Basics
+price              : 28.01
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again
+price              : 50.62
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : My Kitchen Year: 136 Recipes That Saved My Life
+price              : 11.53
+rate               : 2
+stock_staus        : In stock
+available_quantity : 13
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Everyday Italian: 125 Simple and Delicious Recipes
+price              : 20.10
+rate               : 5
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More
+price              : 38.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Cravings: Recipes for What You Want to Eat
+price              : 20.50
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York
+price              : 12.34
+rate               : 4
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : 32 Yolks
+price              : 53.63
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
+price              : 11.38
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)
+price              : 46.01
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking
+price              : 28.25
+rate               : 2
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Barefoot Contessa Cookbook
+price              : 59.92
+rate               : 5
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Better Homes and Gardens New Cook Book
+price              : 39.61
+rate               : 3
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Power Greens Cookbook: 140 Delicious Superfood Recipes
+price              : 11.05
+rate               : 5
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens
+price              : 24.91
+rate               : 5
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Vegan Vegetarian Omnivore: Dinner for Everyone at the Table
+price              : 13.66
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Smitten Kitchen Cookbook
+price              : 23.59
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution
+price              : 34.32
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Food and Drink
+book_name          : Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World
+price              : 33.14
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,8 @@
+category_name      : Parenting
+book_name          : Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+price              : 37.35
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,8 @@
+category_name      : Cultural
+book_name          : Amid the Chaos
+price              : 36.58
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,256 @@
+category_name      : Mystery
+book_name          : Sharp Objects
+price              : 47.82
+rate               : 4
+stock_staus        : In stock
+available_quantity : 20
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : In a Dark, Dark Wood
+price              : 19.63
+rate               : 1
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Past Never Ends
+price              : 56.50
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : A Murder in Time
+price              : 16.64
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Murder of Roger Ackroyd (Hercule Poirot #4)
+price              : 44.10
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Last Mile (Amos Decker #2)
+price              : 54.21
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : That Darkness (Gardiner and Renner #1)
+price              : 13.92
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Tastes Like Fear (DI Marnie Rome #3)
+price              : 10.69
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : A Time of Torment (Charlie Parker #14)
+price              : 48.35
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : A Study in Scarlet (Sherlock Holmes #1)
+price              : 16.73
+rate               : 2
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Poisonous (Max Revere Novels #3)
+price              : 26.80
+rate               : 3
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Murder at the 42nd Street Library (Raymond Ambler #1)
+price              : 54.36
+rate               : 4
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Most Wanted
+price              : 35.28
+rate               : 3
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Hide Away (Eve Duncan #20)
+price              : 11.84
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Boar Island (Anna Pigeon #19)
+price              : 59.48
+rate               : 3
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Widow
+price              : 27.26
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Playing with Fire
+price              : 13.71
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : What Happened on Beale Street (Secrets of the South Mysteries #2)
+price              : 25.37
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+price              : 52.30
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Delivering the Truth (Quaker Midwife Mystery #1)
+price              : 20.89
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Mysterious Affair at Styles (Hercule Poirot #1)
+price              : 24.80
+rate               : 4
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : In the Woods (Dublin Murder Squad #1)
+price              : 38.38
+rate               : 2
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Silkworm (Cormoran Strike #2)
+price              : 23.05
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Exiled
+price              : 43.45
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Cuckoo's Calling (Cormoran Strike #1)
+price              : 19.21
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Extreme Prey (Lucas Davenport #26)
+price              : 25.40
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Career of Evil (Cormoran Strike #3)
+price              : 24.72
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
+price              : 57.70
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Girl You Lost
+price              : 12.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : The Girl In The Ice (DCI Erika Foster #1)
+price              : 15.85
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : Blood Defense (Samantha Brinkman #1)
+price              : 20.30
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Mystery
+book_name          : 1st to Die (Women's Murder Club #1)
+price              : 53.98
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

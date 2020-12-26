@@ -1,0 +1,280 @@
+category_name      : Romance
+book_name          : Chase Me (Paris Nights #2)
+price              : 25.27
+rate               : 5
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Black Dust
+price              : 34.53
+rate               : 5
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Her Backup Boyfriend (The Sorensen Family #1)
+price              : 33.97
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : First and First (Five Boroughs #3)
+price              : 15.97
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Fifty Shades Darker (Fifty Shades #2)
+price              : 21.96
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : The Wedding Dress
+price              : 24.12
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Suddenly in Love (Lake Haven #1)
+price              : 55.99
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Something More Than This
+price              : 16.24
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Doing It Over (Most Likely To #1)
+price              : 35.61
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : The Wedding Pact (The O'Malleys #2)
+price              : 32.61
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Hold Your Breath (Search and Rescue #1)
+price              : 28.82
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Dirty (Dive Bar #1)
+price              : 40.83
+rate               : 4
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Take Me Home Tonight (Rock Star Romance #3)
+price              : 53.98
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Off the Hook (Fishing for Trouble #1)
+price              : 47.67
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : A Gentleman's Position (Society of Gentlemen #3)
+price              : 14.75
+rate               : 5
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Sit, Stay, Love
+price              : 20.90
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : A Girl's Guide to Moving On (New Beginnings #2)
+price              : 31.30
+rate               : 1
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : The Perfect Play (Play by Play #1)
+price              : 59.99
+rate               : 3
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Dark Lover (Black Dagger Brotherhood #1)
+price              : 12.87
+rate               : 1
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Changing the Game (Play by Play #2)
+price              : 13.38
+rate               : 3
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : A Walk to Remember
+price              : 56.43
+rate               : 1
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : The Purest Hook (Second Circle Tattoos #3)
+price              : 12.25
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : The Obsession
+price              : 45.43
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Reservations for Two
+price              : 11.10
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Best of My Love (Fool's Gold #20)
+price              : 27.41
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Where Lightning Strikes (Bleeding Stars #3)
+price              : 39.77
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : This One Moment (Pushing Limits #1)
+price              : 48.71
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Rhythm, Chord & Malykhin
+price              : 28.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : My Perfect Mistake (Over the Top #1)
+price              : 38.92
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Listen to Me (Fusion #1)
+price              : 58.99
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Imperfect Harmony
+price              : 34.74
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Fighting Fate (Fighting #6)
+price              : 39.24
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Deep Under (Walker Security #1)
+price              : 47.09
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Charity's Cross (Charles Towne Belles #4)
+price              : 41.24
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Romance
+book_name          : Bounty (Colorado Mountain #7)
+price              : 37.26
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

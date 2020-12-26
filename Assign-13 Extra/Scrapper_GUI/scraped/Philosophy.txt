@@ -1,0 +1,88 @@
+category_name      : Philosophy
+book_name          : Sophie's World
+price              : 15.94
+rate               : 5
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : The Death of Humanity: and the Case for Life
+price              : 58.11
+rate               : 4
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : The Stranger
+price              : 17.44
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Proofs of God: Classical Arguments from Tertullian to Barth
+price              : 54.21
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Kierkegaard: A Christian Missionary to Christians
+price              : 47.13
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others
+price              : 29.93
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Critique of Pure Reason
+price              : 20.75
+rate               : 1
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Run, Spot, Run: The Ethics of Keeping Pets
+price              : 20.02
+rate               : 1
+stock_staus        : In stock
+available_quantity : 2
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : The Nicomachean Ethics
+price              : 36.34
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Meditations
+price              : 25.89
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Philosophy
+book_name          : Beyond Good and Evil
+price              : 43.38
+rate               : 1
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

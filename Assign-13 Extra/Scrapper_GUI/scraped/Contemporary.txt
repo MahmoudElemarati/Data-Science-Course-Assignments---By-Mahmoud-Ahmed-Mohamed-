@@ -1,0 +1,24 @@
+category_name      : Contemporary
+book_name          : When We Collided
+price              : 31.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Contemporary
+book_name          : Someone Like You (The Harrisons #2)
+price              : 52.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Contemporary
+book_name          : We Are All Completely Beside Ourselves
+price              : 24.04
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
