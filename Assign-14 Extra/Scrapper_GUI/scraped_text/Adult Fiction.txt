@@ -1,0 +1,8 @@
+category_name      : Adult Fiction
+book_name          : Fifty Shades Freed (Fifty Shades #3)
+price              : 15.36
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

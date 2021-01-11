@@ -1,0 +1,56 @@
+category_name      : Religion
+book_name          : Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master
+price              : 37.97
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : You Are What You Love: The Spiritual Power of Habit
+price              : 21.87
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : God: The Most Unpleasant Character in All Fiction
+price              : 30.03
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : The Book of Mormon
+price              : 24.57
+rate               : 3
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam
+price              : 27.62
+rate               : 1
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : The Bhagavad Gita
+price              : 57.49
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Religion
+book_name          : Choosing Our Religion: The Spiritual Lives of America's Nones
+price              : 28.42
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

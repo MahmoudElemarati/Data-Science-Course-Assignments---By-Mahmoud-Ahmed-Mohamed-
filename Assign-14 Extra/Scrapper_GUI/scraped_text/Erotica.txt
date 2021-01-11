@@ -1,0 +1,8 @@
+category_name      : Erotica
+book_name          : Dark Notes
+price              : 19.19
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------

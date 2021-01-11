@@ -1,0 +1,8 @@
+category_name      : Crime
+book_name          : The Long Shadow of Small Ghosts: Murder and Memory in an American City
+price              : 10.97
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------

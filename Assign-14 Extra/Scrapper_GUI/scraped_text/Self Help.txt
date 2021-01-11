@@ -1,0 +1,40 @@
+category_name      : Self Help
+book_name          : Online Marketing for Busy Authors: A Step-By-Step Guide
+price              : 46.35
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Self Help
+book_name          : How to Be Miserable: 40 Strategies You Already Use
+price              : 46.03
+rate               : 1
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Self Help
+book_name          : Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress
+price              : 52.15
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Self Help
+book_name          : You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+price              : 12.08
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Self Help
+book_name          : How to Stop Worrying and Start Living
+price              : 46.49
+rate               : 5
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------

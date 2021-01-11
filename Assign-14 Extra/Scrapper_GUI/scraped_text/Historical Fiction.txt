@@ -1,0 +1,208 @@
+category_name      : Historical Fiction
+book_name          : Tipping the Velvet
+price              : 53.74
+rate               : 1
+stock_staus        : In stock
+available_quantity : 20
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton
+price              : 29.69
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : A Flight of Arrows (The Pathfinders #2)
+price              : 55.53
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The House by the Lake
+price              : 36.95
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Mrs. Houdini
+price              : 30.25
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Marriage of Opposites
+price              : 28.08
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Glory over Everything: Beyond The Kitchen House
+price              : 45.84
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Love, Lies and Spies
+price              : 20.55
+rate               : 2
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : A Paris Apartment
+price              : 39.01
+rate               : 4
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Lilac Girls
+price              : 17.28
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Constant Princess (The Tudor Court #1)
+price              : 16.62
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Invention of Wings
+price              : 37.34
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : World Without End (The Pillars of the Earth #2)
+price              : 32.97
+rate               : 4
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Passion of Dolssa
+price              : 28.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Girl With a Pearl Earring
+price              : 26.77
+rate               : 1
+stock_staus        : In stock
+available_quantity : 4
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Voyager (Outlander #3)
+price              : 21.07
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Red Tent
+price              : 35.66
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Last Painting of Sara de Vos
+price              : 55.55
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Guernsey Literary and Potato Peel Pie Society
+price              : 49.53
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Girl in the Blue Coat
+price              : 46.83
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Between Shades of Gray
+price              : 20.79
+rate               : 5
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : While You Were Mine
+price              : 41.32
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : The Secret Healer
+price              : 34.56
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Starlark
+price              : 25.83
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : Lost Among the Living
+price              : 27.70
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Historical Fiction
+book_name          : A Spy's Devotion (The Regency Spies of London #1)
+price              : 16.97
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

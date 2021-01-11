@@ -1,0 +1,40 @@
+category_name      : Biography
+book_name          : Louisa: The Extraordinary Life of Mrs. Adams
+price              : 16.85
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Biography
+book_name          : Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+price              : 21.15
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Biography
+book_name          : The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+price              : 39.55
+rate               : 1
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Biography
+book_name          : Benjamin Franklin: An American Life
+price              : 48.19
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Biography
+book_name          : The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+price              : 42.57
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

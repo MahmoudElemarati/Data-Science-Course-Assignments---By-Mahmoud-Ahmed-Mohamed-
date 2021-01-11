@@ -1,0 +1,88 @@
+category_name      : Travel
+book_name          : It's Only the Himalayas
+price              : 45.17
+rate               : 2
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond
+price              : 49.43
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : See America: A Celebration of Our National Parks & Treasured Sites
+price              : 48.87
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+price              : 36.94
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : Under the Tuscan Sun
+price              : 37.33
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : A Summer In Europe
+price              : 44.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : The Great Railway Bazaar
+price              : 30.54
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : A Year in Provence (Provence #1)
+price              : 56.88
+rate               : 4
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+price              : 23.21
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : Neither Here nor There: Travels in Europe
+price              : 38.95
+rate               : 3
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Travel
+book_name          : 1,000 Places to See Before You Die
+price              : 26.08
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

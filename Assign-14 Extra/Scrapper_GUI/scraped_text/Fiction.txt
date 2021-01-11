@@ -1,0 +1,640 @@
+category_name      : Fiction
+book_name          : Soumission
+price              : 50.10
+rate               : 1
+stock_staus        : In stock
+available_quantity : 20
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Private Paris (Private #10)
+price              : 47.61
+rate               : 5
+stock_staus        : In stock
+available_quantity : 17
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : We Love You, Charlie Freeman
+price              : 50.27
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Thirst
+price              : 17.27
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Murder That Never Was (Forensic Instincts #5)
+price              : 54.11
+rate               : 3
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Tuesday Nights in 1980
+price              : 21.04
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Vacationers
+price              : 42.15
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Regional Office Is Under Attack!
+price              : 51.36
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Finders Keepers (Bill Hodges Trilogy #2)
+price              : 53.53
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Time Keeper
+price              : 27.88
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Testament of Mary
+price              : 52.67
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The First Hostage (J.B. Collins #2)
+price              : 25.85
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Take Me with You
+price              : 45.21
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Still Life with Bread Crumbs
+price              : 26.41
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Shtum
+price              : 55.84
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : My Name Is Lucy Barton
+price              : 41.56
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : My Mrs. Brown
+price              : 24.48
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Mr. Mercedes (Bill Hodges Trilogy #1)
+price              : 28.90
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : I Am Pilgrim (Pilgrim #1)
+price              : 10.60
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Eligible (The Austen Project #4)
+price              : 27.09
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Eight Hundred Grapes
+price              : 14.39
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Dear Mr. Knightley
+price              : 11.21
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Cometh the Hour (The Clifton Chronicles #6)
+price              : 25.01
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Balloon Animals
+price              : 17.03
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : A Man Called Ove
+price              : 39.72
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Silent Sister (Riley MacPherson #1)
+price              : 46.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Dinner Party
+price              : 56.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Improbability of Love
+price              : 59.45
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Mothering Sunday
+price              : 13.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Lies and Other Acts of Love
+price              : 45.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Daredevils
+price              : 16.34
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : 11/22/63
+price              : 48.48
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Shack
+price              : 28.03
+rate               : 1
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The High Mountains of Portugal
+price              : 51.15
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Miller's Valley
+price              : 58.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Hystopia: A Novel
+price              : 21.96
+rate               : 4
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Bourne Identity (Jason Bourne #1)
+price              : 42.78
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Sister Dear
+price              : 40.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Memoirs of a Geisha
+price              : 49.67
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Me Before You (Me Before You #1)
+price              : 19.02
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Eight Hundred Grapes
+price              : 14.39
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Dear Mr. Knightley
+price              : 11.21
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Cometh the Hour (The Clifton Chronicles #6)
+price              : 25.01
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Balloon Animals
+price              : 17.03
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : A Man Called Ove
+price              : 39.72
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Silent Sister (Riley MacPherson #1)
+price              : 46.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Dinner Party
+price              : 56.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Improbability of Love
+price              : 59.45
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Mothering Sunday
+price              : 13.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Lies and Other Acts of Love
+price              : 45.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Daredevils
+price              : 16.34
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : 11/22/63
+price              : 48.48
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Shack
+price              : 28.03
+rate               : 1
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The High Mountains of Portugal
+price              : 51.15
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Miller's Valley
+price              : 58.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Hystopia: A Novel
+price              : 21.96
+rate               : 4
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Bourne Identity (Jason Bourne #1)
+price              : 42.78
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Sister Dear
+price              : 40.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Memoirs of a Geisha
+price              : 49.67
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Me Before You (Me Before You #1)
+price              : 19.02
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Eight Hundred Grapes
+price              : 14.39
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Dear Mr. Knightley
+price              : 11.21
+rate               : 5
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Cometh the Hour (The Clifton Chronicles #6)
+price              : 25.01
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Balloon Animals
+price              : 17.03
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : A Man Called Ove
+price              : 39.72
+rate               : 1
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Silent Sister (Riley MacPherson #1)
+price              : 46.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Dinner Party
+price              : 56.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Improbability of Love
+price              : 59.45
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Mothering Sunday
+price              : 13.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Lies and Other Acts of Love
+price              : 45.14
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Daredevils
+price              : 16.34
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : 11/22/63
+price              : 48.48
+rate               : 3
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Shack
+price              : 28.03
+rate               : 1
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The High Mountains of Portugal
+price              : 51.15
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Miller's Valley
+price              : 58.54
+rate               : 2
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Hystopia: A Novel
+price              : 21.96
+rate               : 4
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : The Bourne Identity (Jason Bourne #1)
+price              : 42.78
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Sister Dear
+price              : 40.20
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Memoirs of a Geisha
+price              : 49.67
+rate               : 3
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Fiction
+book_name          : Me Before You (Me Before You #1)
+price              : 19.02
+rate               : 1
+stock_staus        : In stock
+available_quantity : 6
+-----------------------------------------
+-----------------------------------------

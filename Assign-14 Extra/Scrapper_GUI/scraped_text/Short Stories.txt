@@ -1,0 +1,8 @@
+category_name      : Short Stories
+book_name          : The Grownup
+price              : 35.88
+rate               : 1
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,128 @@
+category_name      : Science Fiction
+book_name          : Mesaerion: The Best Science Fiction Stories 1800-1849
+price              : 37.59
+rate               : 1
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Join
+price              : 35.67
+rate               : 5
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)
+price              : 43.30
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : The Project
+price              : 10.65
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Soft Apocalypse
+price              : 26.12
+rate               : 2
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Sleeping Giants (Themis Files #1)
+price              : 48.74
+rate               : 1
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Arena
+price              : 21.36
+rate               : 4
+stock_staus        : In stock
+available_quantity : 11
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Foundation (Foundation (Publication Order) #1)
+price              : 32.42
+rate               : 1
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)
+price              : 10.92
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Ready Player One
+price              : 19.07
+rate               : 4
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)
+price              : 33.26
+rate               : 2
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Dune (Dune #1)
+price              : 54.86
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Do Androids Dream of Electric Sheep? (Blade Runner #1)
+price              : 51.48
+rate               : 1
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Three Wishes (River of Time: California #1)
+price              : 44.18
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : The Last Girl (The Dominion Trilogy #1)
+price              : 36.26
+rate               : 2
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : Science Fiction
+book_name          : Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+price              : 34.96
+rate               : 4
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

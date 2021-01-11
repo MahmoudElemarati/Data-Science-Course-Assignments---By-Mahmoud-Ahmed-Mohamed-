@@ -1,0 +1,48 @@
+category_name      : New Adult
+book_name          : Without Borders (Wanderlove #1)
+price              : 45.07
+rate               : 2
+stock_staus        : In stock
+available_quantity : 16
+-----------------------------------------
+-----------------------------------------
+category_name      : New Adult
+book_name          : The Mistake (Off-Campus #2)
+price              : 43.29
+rate               : 3
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : New Adult
+book_name          : The Matchmaker's Playbook (Wingmen Inc. #1)
+price              : 55.85
+rate               : 1
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : New Adult
+book_name          : The Hook Up (Game On #1)
+price              : 36.29
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : New Adult
+book_name          : Shameless
+price              : 58.35
+rate               : 3
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
+category_name      : New Adult
+book_name          : Off Sides (Off #1)
+price              : 39.45
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------

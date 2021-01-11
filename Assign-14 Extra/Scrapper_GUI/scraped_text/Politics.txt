@@ -1,0 +1,24 @@
+category_name      : Politics
+book_name          : Libertarianism for Beginners
+price              : 51.33
+rate               : 2
+stock_staus        : In stock
+available_quantity : 19
+-----------------------------------------
+-----------------------------------------
+category_name      : Politics
+book_name          : Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond
+price              : 52.65
+rate               : 4
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Politics
+book_name          : Equal Is Unfair: America's Misguided Fight Against Income Inequality
+price              : 56.86
+rate               : 1
+stock_staus        : In stock
+available_quantity : 12
+-----------------------------------------
+-----------------------------------------

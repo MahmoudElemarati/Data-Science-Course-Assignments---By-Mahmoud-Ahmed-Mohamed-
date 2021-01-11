@@ -1,0 +1,48 @@
+category_name      : Christian Fiction
+book_name          : Redeeming Love
+price              : 20.47
+rate               : 5
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Christian Fiction
+book_name          : Close to You
+price              : 49.46
+rate               : 4
+stock_staus        : In stock
+available_quantity : 15
+-----------------------------------------
+-----------------------------------------
+category_name      : Christian Fiction
+book_name          : Shadows of the Past (Logan Point #1)
+price              : 39.67
+rate               : 5
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Christian Fiction
+book_name          : Like Never Before (Walker Family #2)
+price              : 28.77
+rate               : 2
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Christian Fiction
+book_name          : Counted With the Stars (Out from Egypt #1)
+price              : 17.97
+rate               : 5
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Christian Fiction
+book_name          : If I Run (If I Run #1)
+price              : 49.97
+rate               : 4
+stock_staus        : In stock
+available_quantity : 3
+-----------------------------------------
+-----------------------------------------

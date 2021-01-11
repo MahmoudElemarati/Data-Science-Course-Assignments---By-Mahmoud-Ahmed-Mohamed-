@@ -1,0 +1,8 @@
+category_name      : Academic
+book_name          : Logan Kade (Fallen Crest High #5.5)
+price              : 13.12
+rate               : 2
+stock_staus        : In stock
+available_quantity : 5
+-----------------------------------------
+-----------------------------------------

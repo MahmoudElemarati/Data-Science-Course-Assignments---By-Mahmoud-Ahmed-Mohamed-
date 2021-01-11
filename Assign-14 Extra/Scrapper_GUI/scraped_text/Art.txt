@@ -1,0 +1,64 @@
+category_name      : Art
+book_name          : Wall and Piece
+price              : 44.18
+rate               : 4
+stock_staus        : In stock
+available_quantity : 18
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : Feathers: Displays of Brilliant Plumage
+price              : 49.05
+rate               : 3
+stock_staus        : In stock
+available_quantity : 14
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+price              : 48.63
+rate               : 4
+stock_staus        : In stock
+available_quantity : 9
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : The New Drawing on the Right Side of the Brain
+price              : 43.02
+rate               : 3
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : History of Beauty
+price              : 10.29
+rate               : 4
+stock_staus        : In stock
+available_quantity : 8
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : The Story of Art
+price              : 41.14
+rate               : 4
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : The Art Book
+price              : 32.34
+rate               : 2
+stock_staus        : In stock
+available_quantity : 7
+-----------------------------------------
+-----------------------------------------
+category_name      : Art
+book_name          : Ways of Seeing
+price              : 39.51
+rate               : 5
+stock_staus        : In stock
+available_quantity : 1
+-----------------------------------------
+-----------------------------------------
